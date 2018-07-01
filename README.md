@@ -4,7 +4,7 @@
 
 ## 概要
 atomで名取さなちゃんが喋ってくれるプラグイン  
-https://atom.io/packages/natorisana-voice　　
+https://atom.io/packages/natorisana-voice
 
 ## 注意
 非公式です。  

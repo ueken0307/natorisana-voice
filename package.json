@@ -1,0 +1,16 @@
+{
+  "name": "natorisana-voice",
+  "main": "./lib/natorisana-voice",
+  "version": "0.0.0",
+  "description": "バーチャルサナトリウムのエディターには標準装備されているプラグイン",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "natorisana-voice:toggle"
+  },
+  "repository": "https://github.com/ueken0307/natorisana-voice/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

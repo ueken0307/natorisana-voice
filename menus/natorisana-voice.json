@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle natorisana-voice",
+        "command": "natorisana-voice:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "natorisana-voice",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "natorisana-voice:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

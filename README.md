@@ -1,9 +1,10 @@
 # natorisana-voice
-----
+
 # ～さなちゃんコード書くとこ見てて...～
 
 ## 概要
-atomで名取さなちゃんが喋ってくれるプラグイン
+atomで名取さなちゃんが喋ってくれるプラグイン　　
+https://atom.io/packages/natorisana-voice　　
 
 ## 注意
 非公式です。  
@@ -12,6 +13,8 @@ atomで名取さなちゃんが喋ってくれるプラグイン
 JS初心者なので間違った書き方とかしてたり、要望だったり、その他連絡あれば [@zuho_cpp](https://twitter.com/zuho_cpp)までよろしくお願いします。
 
 ## 使い方
+### インストール
+`パッケージのインストール`から`natorisana-voice`を検索してインストール  
 
 ### 起動
 `ctrl + alt + n`  

@@ -1,6 +1,5 @@
 {
   "name": "natorisana-voice",
-  "author": "Kentarou Ueda <ueken0307@hotmail.co.jp>",
   "main": "./lib/natorisana-voice",
   "version": "0.0.0",
   "description": "バーチャルサナトリウムのエディターには標準装備されているプラグイン",
@@ -8,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "natorisana-voice:toggle"
   },
-  "repository": "https://github.com/ueken0307/natorisana-voice/",
+  "repository": "https://github.com/ueken0307/natorisana-voice",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

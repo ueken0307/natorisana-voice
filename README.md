@@ -3,7 +3,7 @@
 # ～さなちゃんコード書くとこ見てて...～
 
 ## 概要
-atomで名取さなちゃんが喋ってくれるプラグイン　　
+atomで名取さなちゃんが喋ってくれるプラグイン  
 https://atom.io/packages/natorisana-voice　　
 
 ## 注意

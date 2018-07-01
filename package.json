@@ -1,5 +1,6 @@
 {
   "name": "natorisana-voice",
+  "author": "Kentarou Ueda <ueken0307@hotmail.co.jp>",
   "main": "./lib/natorisana-voice",
   "version": "0.0.0",
   "description": "バーチャルサナトリウムのエディターには標準装備されているプラグイン",

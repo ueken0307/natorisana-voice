@@ -1,7 +1,7 @@
 {
   "name": "natorisana-voice",
   "main": "./lib/natorisana-voice",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "バーチャルサナトリウムのエディターには標準装備されているプラグイン",
   "keywords": [],
   "activationCommands": {

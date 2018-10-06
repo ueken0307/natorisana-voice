@@ -33,6 +33,8 @@ or
 |ファイル編集時           |「うんうん」  |✖️  |
 |数字打った時             |カウントダウンボイス  |✖️  |
 |'Natorisana Voice:cheer'|応援してくれる|コマンド打った時 |
+|'Natorisana Voice:homete'|ほめてくれる|コマンド打った時 |
+|'Natorisana Voice:kyopro'|一緒に競プロしてくれる|コマンド打った時 |
 
 #### サーナくん召喚
 `Natorisana Voice:Sa~na`  
